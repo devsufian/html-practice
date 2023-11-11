@@ -1,6 +1,21 @@
-.good{
-    background-color: aquamarine;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+.box {
+    border: 1px solid black;
+    margin: 10px 200px;
+    border-radius: 100px;
+    background-color: rgb(191, 235, 126);
+
 }
-.btm{
-    padding: 10px 20px;
+body{
+    background-color: rgb(36, 35, 35);
+    color: azure;
+    font-family: 'Lato', sans-serif;
+    word-spacing: 30px;
+}
+
+.aux{
+    margin: 10px 20px;
+    text-align: center;
+    color:rgb(126, 123, 123);
 }
