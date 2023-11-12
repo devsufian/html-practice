@@ -5,20 +5,40 @@
   border-radius: 100px;
   background-color: rgb(191, 235, 126);
 }
-
 body {
   background-color: rgb(36, 35, 35);
   color: azure;
   font-family: "Lato", sans-serif;
   word-spacing: 30px;
 }
-
 .aux {
   margin: 10px 20px;
   text-align: center;
   color: rgb(126, 123, 123);
 }
-.ok{
-    border-spacing: 10px;
-    border-radius: 100px;
+.ok {
+  border-spacing: 10px;
+  border-radius: 100px;
+}
+.bo {
+  color: rgb(124, 129, 129);
+}
+.co {
+  color: rgb(124, 129, 129);
+}
+.do {
+  color: rgb(124, 129, 129);
+}
+.eo {
+  color: rgb(124, 129, 129);
+}
+.fo {
+  color: rgb(124, 129, 129);
+}
+.boo {
+  background-color: rgb(165, 221, 108);
+}
+.good {
+  color: rgb(165, 221, 108)
+  
 }
