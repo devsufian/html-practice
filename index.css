@@ -1,11 +1,16 @@
 table{
     border-collapse: collapse;
-    
 }
+
 td,th{
     border: 1px solid;
     color: aliceblue;
-}
+};
+
 body{
     background-color: rgb(95, 95, 95);
-}
+};
+
+.flex{
+    display: flex;
+};
